@@ -1,2 +1,2 @@
 # quote
-link-nihal-baba.github.com/quote.github.io
+link-nihal-baba.github.io/quote.github.io
